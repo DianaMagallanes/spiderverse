@@ -1,0 +1,19 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DianaMagallanes/spiderverse.git"
+  },
+  "author": "DianaMagallanes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DianaMagallanes/spiderverse/issues"
+  },
+  "homepage": "https://github.com/DianaMagallanes/spiderverse#readme"
+}
